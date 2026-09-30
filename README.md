@@ -1,7 +1,7 @@
 # Universelle Cellule Ariana - Standalone Version
 
 **Plateforme Numérique Solidaire pour Maratech 2026**  
-Version standalone complètement indépendante - Exécution 100% locale
+Version standalone complètement indépendante - Exécution 100% locale 
 
 ---
 
